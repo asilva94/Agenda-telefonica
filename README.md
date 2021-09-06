@@ -1,5 +1,5 @@
-# Achar o arquivo exe(agend-1\agend-1\bin\Debug\netcoreapp3.1)
-# Funcionalidade:
+# Achar o arquivo exe (agend-1\agend-1\bin\Debug\netcoreapp3.1)
+# Funcionalidades:
 -Botão Inserir: Cadastrar um novo dado, inserindo o Nome, Endereço e Telefone, logo após, clique em Salvar;
   Caso queira apagar algum dado, selecionar na lista de texto e clicar no botão apagar;
   Caso queira cancelar a operação, clique em fechar.
