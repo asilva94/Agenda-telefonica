@@ -55,7 +55,7 @@ namespace agend_1
             this.insert_edit.Name = "insert_edit";
             this.insert_edit.Size = new System.Drawing.Size(202, 58);
             this.insert_edit.TabIndex = 1;
-            this.insert_edit.Text = "Inserir/Editar";
+            this.insert_edit.Text = "Inserir";
             this.insert_edit.UseVisualStyleBackColor = true;
             this.insert_edit.Click += new System.EventHandler(this.insert_edit_Click);
             // 
